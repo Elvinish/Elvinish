@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elvinish" alt="elvinish" /></a> </p>
 
-- 🔭 I’m currently working on [Around of US](https://github.com/Elvinish/se_project_aroundtheus)
+- 🔭 I’m currently working on [Project React](https://github.com/Elvinish/se_project_react)
 
 - 🌱 I’m currently learning **JavaScript**
 
